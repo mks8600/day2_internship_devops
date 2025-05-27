@@ -26,4 +26,4 @@ EXPOSE 3000
 
 # Define the command to run your app
 # It should now look for index.js directly in the /app directory
-CMD ["node", "/app/index.js"]
+CMD ["node", "src/index.js"]
